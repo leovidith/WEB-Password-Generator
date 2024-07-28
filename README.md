@@ -9,8 +9,7 @@ A simple web application for generating random passwords.
 - [Technologies Used](https://github.com/leovidith/WEB-Password-Generator/blob/main/README.md#technologies-used)
 - [Setup](https://github.com/leovidith/WEB-Password-Generator/blob/main/README.md#setup)
 - [Usage](https://github.com/leovidith/WEB-Password-Generator/blob/main/README.md#usage)
-- [License](https://github.com/leovidith/WEB-Password-Generator/blob/main/README.md#license)
-
+- [Driver Code](https://github.com/leovidith/WEB-Password-Generator/blob/main/README.md#driver-code)
 ## About
 
 This project is a web-based password generator that allows users to create strong, random passwords with customizable options.
