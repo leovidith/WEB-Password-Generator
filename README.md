@@ -48,6 +48,28 @@ To set up the project locally, follow these steps:
 3. Click the "Generate Password" button to create a new password.
 4. Copy the generated password to your clipboard using the "Copy" button.
 
-## License
+## Driver Code
 
-This project is licensed under the MIT License.
+Below is a snippet of the JavaScript code responsible for generating the password:
+
+```javascript
+function generatePassword(length, hasUppercase, hasLowercase, hasNumbers, hasSymbols) {
+    const upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    const lowerCase = "abcdefghijklmnopqrstuvwxyz";
+    const numbers = "0123456789";
+    const symbols = "!@#$%^&*()_+=-[]{}|;:'\",.<>?/";
+
+    let possibleCharacters = "";
+    if (hasUppercase) possibleCharacters += upperCase;
+    if (hasLowercase) possibleCharacters += lowerCase;
+    if (hasNumbers) possibleCharacters += numbers;
+    if (hasSymbols) possibleCharacters += symbols;
+
+    let password = "";
+    for (let i = 0; i < length; i++) {
+        const randomIndex = Math.floor(Math.random() * possibleCharacters.length);
+        password += possibleCharacters[randomIndex];
+    }
+    return password;
+}
+```
