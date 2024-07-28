@@ -5,11 +5,11 @@ A simple web application for generating random passwords.
 ## Table of Contents
 
 - [About](https://github.com/leovidith/WEB-Password-Generator/blob/main/README.md#about)
-- [Features](https://github.com/leovidith/WEB-Password-Generator/blob/main/README.md#about#features)
-- [Technologies Used](https://github.com/leovidith/WEB-Password-Generator/blob/main/README.md#about#technologies-used)
-- [Setup](https://github.com/leovidith/WEB-Password-Generator/blob/main/README.md#about#setup)
-- [Usage](https://github.com/leovidith/WEB-Password-Generator/blob/main/README.md#about#usage)
-- [License](https://github.com/leovidith/WEB-Password-Generator/blob/main/README.md#about#license)
+- [Features](https://github.com/leovidith/WEB-Password-Generator/blob/main/README.md#features)
+- [Technologies Used](https://github.com/leovidith/WEB-Password-Generator/blob/main/README.md#technologies-used)
+- [Setup](https://github.com/leovidith/WEB-Password-Generator/blob/main/README.md#setup)
+- [Usage](https://github.com/leovidith/WEB-Password-Generator/blob/main/README.md#usage)
+- [License](https://github.com/leovidith/WEB-Password-Generator/blob/main/README.md#license)
 
 ## About
 
