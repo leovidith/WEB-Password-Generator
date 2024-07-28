@@ -1,4 +1,4 @@
-# WEB Password Generator
+# {[WEB Password Generator](https://leovidith.github.io/WEB-Password-Generator/)
 
 A simple web application for generating random passwords.
 
